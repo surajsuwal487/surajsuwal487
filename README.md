@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Suwal</h1>
-<h3 align="center">I am a Web Developer.I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h3 align="center">I am a Web Developer. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h3 align="left">Connect with me:</h3>
